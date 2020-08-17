@@ -9,6 +9,7 @@ GOOGLEFINANCE() is a popular function on google spreadsheet for retrieving stock
 
 > Due to issues beyond our control, the following exchanges are no longer supported in Google Sheets: TYO, INDEXTYO, BKK, INDEXBKK, SHA, INDEXCSI, SGX, & KLSE.
 <br/>
+
 To solve this problem, this scraper is created to help you retrieve stock market data in one click.
 
 *****Please note that this scraper is designed to use on google drive along with a google spreadsheet for storing stock data.***
