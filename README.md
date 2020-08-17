@@ -20,14 +20,12 @@ To solve this problem, this scraper is created to help you retrieve stock market
 
 1. Download the scraper to your google drive.
 
-2. Create a google spreadsheet and input all the stock names you want to scrape in the first column (column A) starting from the second row (A2).
-
-Example:
+2. Create a google spreadsheet and input all the stock names you want to scrape in the first column (column A) starting from the second row (A2). [Example Image](https://github.com/kckcng/Stock-Price-Scraper/blob/master/example.png)
 
 3. Open the scraper with google colaboratory.
 
 4. Input the name of your google spreadsheet file at `google_sheet_name` and the sheet name at `sheet_name`.
 
-5. Click the run button.
-
+5. Click the run button. :arrow_forward:
+ 
 *You may need to authorize google to access your google drive. Just follow the instructions on the screen is fine.*
