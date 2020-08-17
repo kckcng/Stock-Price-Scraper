@@ -12,8 +12,22 @@ GOOGLEFINANCE() is a popular function on google spreadsheet for retrieving stock
 
 To solve this problem, this scraper is created to help you retrieve stock market data in one click.
 
-*****Please note that this scraper is designed to use on google drive along with a google spreadsheet for storing stock data.***
+*****Please note that this scraper is designed to use on google drive only, along with a google spreadsheet for storing stock data.***
 
 <br/>
 
 ## User Guide
+
+1. Download the scraper to your google drive.
+
+2. Create a google spreadsheet and input all the stock names you want to scrape in the first column (column A) starting from the second row (A2).
+
+Example:
+
+3. Open the scraper with google colaboratory.
+
+4. Input the name of your google spreadsheet file at `google_sheet_name` and the sheet name at `sheet_name`.
+
+5. Click the run button.
+
+*You may need to authorize google to access your google drive. Just follow the instructions on the screen is fine.*
