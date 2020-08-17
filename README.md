@@ -1,4 +1,4 @@
-# Stock-Price-Scraper
+# Stock-Price-Scraper :moneybag:
 
 > When evaluating GOOGLEFINANCE, Google Spreadsheets is not authorized to access data for exchange: 'SGX'
 
